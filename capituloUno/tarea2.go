@@ -1,8 +1,8 @@
-package main
+package capituloUno
 
 import "fmt"
 
-func main() {
+func TareaTwo() {
 	/*
 		crea una aplicacion que pueda iniciar seccion
 		dentro de el programa pueda crear un comentario

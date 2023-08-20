@@ -1,8 +1,8 @@
-package main
+package capituloUno
 
 import "fmt"
 
-func main() {
+func OperadoresNumericos() {
 	var edad int = 32
 	var edad2 int = 33
 

@@ -1,8 +1,8 @@
-package main
+package capituloUno
 
 import "fmt"
 
-func main() {
+func SalidaStandar() {
 	var texto string = "Yo soy la asignada"
 	fmt.Println("Salida con un salto de linea es ln")
 	fmt.Print("Esta es sin salto de linea")

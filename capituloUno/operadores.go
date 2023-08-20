@@ -1,8 +1,8 @@
-package main
+package capituloUno
 
 import "fmt"
 
-func main() {
+func Operadores() {
 	var texto string = "hola"
 	var texto1 string = "hola"
 

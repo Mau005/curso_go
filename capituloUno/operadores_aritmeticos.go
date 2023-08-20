@@ -1,8 +1,8 @@
-package main
+package capituloUno
 
 import "fmt"
 
-func main() {
+func OperadoresAritmeticos() {
 	/*
 		+ sumar
 		- restar

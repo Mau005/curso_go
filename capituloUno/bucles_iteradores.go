@@ -1,10 +1,10 @@
-package main
+package capituloUno
 
 import (
 	"fmt"
 )
 
-func main() {
+func BuclesIteradores() {
 
 	var texto string = "Bienvenido al mundo de los iteradores"
 

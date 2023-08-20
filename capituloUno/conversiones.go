@@ -1,8 +1,8 @@
-package main
+package capituloUno
 
 import "fmt"
 
-func main() {
+func Conversiones() {
 	var num1 float64 = -45.57
 	var resultado int
 

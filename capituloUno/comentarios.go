@@ -1,8 +1,6 @@
-package main
+package capituloUno
 
-import "fmt"
-
-func main() {
+func Comentario() {
 	/*
 		esto es un comentario
 	*/

@@ -1,8 +1,8 @@
-package main
+package capituloUno
 
 import "fmt"
 
-func main() {
+func OperadoresLogicos() {
 	edad := 18
 	sexo := "Mujer"
 	//Club que solo las personas entre 18 y 64 años pueden entrar
