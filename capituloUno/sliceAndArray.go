@@ -1,4 +1,4 @@
-package main
+package capituloUno
 
 import "fmt"
 
@@ -33,7 +33,7 @@ func AsigneNumerosSliceTwo(mySlice []int) []int {
 	return mySlice
 }
 
-func main() {
+func TestSliceAndArray() {
 	//Longitud y Capacidad
 	MyArray := [6]int{1, 2, 3, 4, 5, 6}
 	//AsigneNumeros(&MyArray, 10, 20, 30, 40, 50, 60, 10, 20, 324, 234, 324, 234, 324)
